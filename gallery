@@ -27,4 +27,20 @@ rotate
 z 5
 torus
 0 0 0 40 125
+move
+0 150 0
+sphere
+0 0 0 30
+move
+0 -70 0
+sphere
+0 0 0 10
+move
+10 0 0
+sphere
+0 0 0 10
+move
+-20 0 0
+sphere
+0 0 0 10
 display
