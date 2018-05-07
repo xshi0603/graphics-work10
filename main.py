@@ -35,4 +35,4 @@ edges = []
 polygons = []
 transform = new_matrix()
 
-parse_file( 'script', edges, polygons, transform, screen, zbuffer, view, ambient, light, areflect, dreflect, sreflect)
+parse_file( 'script2', edges, polygons, transform, screen, zbuffer, view, ambient, light, areflect, dreflect, sreflect)
